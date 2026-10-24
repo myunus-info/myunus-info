@@ -2,7 +2,7 @@
 
   <!-- Header Banner (Dark Navy #111827 Theme) -->
   <a href="https://github.com/myunus-info">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:111827,100:1f293d&height=210&section=header&text=Muhammad%20Yunus&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Muhammad Yunus" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:111827,100:1f293d&height=210&section=header&text=Muhammad%20Yunus&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38" width="100%" alt="Muhammad Yunus" />
   </a>
 
   <!-- Animated Typing SVG Sub-header -->
