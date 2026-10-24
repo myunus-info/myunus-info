@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Header Banner -->
+  <!-- Header Banner (Dark Navy Theme) -->
   <a href="https://github.com/myunus-info">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0f172a,100:1e293b&height=210&section=header&text=Muhammad%20Yunus&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38" width="100%" alt="Muhammad Yunus" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,50:0a192f,100:1e3a5f&height=150&section=header&text=Muhammad%20Yunus&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Muhammad Yunus" />
   </a>
 
   <!-- Animated Typing SVG Sub-header -->
   <a href="https://github.com/myunus-info">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend-Focused+Full-Stack+Engineer;Node.js+%7C+Express+%7C+NestJS+%7C+PostgreSQL;Next.js+16+%7C+TypeScript+%7C+React+19;AWS+%7C+Docker+%7C+Prisma+%7C+Redis;Open+for+Global+Remote+Software+Roles" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Backend-Focused+Full-Stack+Engineer;Node.js+%7C+Express+%7C+NestJS+%7C+PostgreSQL;Next.js+16+%7C+TypeScript+%7C+React+19;AWS+%7C+Docker+%7C+Prisma+%7C+Redis;Open+for+Global+Remote+Software+Roles" alt="Typing Subtitle" />
   </a>
 
   <p align="center">
