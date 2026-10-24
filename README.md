@@ -46,7 +46,7 @@ Engineering Focus:
   - "Container sandboxing (Docker resource cgroups, memory caps & isolated runners)"
   - "Snappy, accessible client architecture with Server Components & optimistic state mutations"
 Experience: "3+ years architecting and shipping production software"
-Timezone: "Eastern European Time (EET / UTC+2) • Full EU & US East Coast Overlap"
+Timezone: "Cairo (GMT+2 / UTC+2) • Full EU & US East Coast Overlap"
 Work Authorization: "Open for Global Remote Roles & Sponsorship / Relocation"
 ```
 
