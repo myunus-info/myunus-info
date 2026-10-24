@@ -34,7 +34,7 @@
 
 ---
 
-### Executive Snapshot
+### ⚡ Executive Snapshot
 
 ```yaml
 Role: "Full-Stack Software Engineer (Backend Focus + Modern Frontend)"
@@ -120,45 +120,45 @@ Work Authorization: "Open for Global Remote Roles & Sponsorship / Relocation"
 
 Here is a curated selection of full-stack systems I designed, architected, and shipped:
 
-#### 1. [DevJudge – Automated Code Assessment Sandbox](https://devjudgelivecoding.vercel.app)
+#### 1. [DevJudge – Automated Code Assessment & Sandbox Platform](https://devjudgelivecoding.vercel.app)
 
-> **A secure coding assessment and evaluation platform featuring isolated Docker container execution, custom hidden test runners, and real-time execution analytics.**
+> **An enterprise-grade coding assessment and evaluation platform featuring isolated Docker container execution, custom hidden test runners, and real-time execution analytics.**
 
 - **Architecture**: Next.js 16 (App Router, Server Actions, Shadcn UI) frontend connected to an Express 5 TypeScript backend with Prisma ORM and PostgreSQL on AWS/Docker.
 - **Engineering Highlights**:
   - Engineered an isolated execution pipeline utilizing **ephemeral Docker containers** with strict Linux cgroup limits (`512MB RAM cap`, `2.0s execution timeout`, non-root user execution, and network isolation) to safely run untrusted code without system compromise.
   - Implemented streaming telemetry for CPU usage, memory consumption, and runtime metrics back to the candidate and evaluator dashboard.
-  - Built comprehensive role-based access control (RBAC) separating Candidates, Reviewers, and System Administrators.
-- **Tech Stack**: `Next.js 16` • `TypeScript` • `Node.js` • `Express` • `Prisma` • `PostgreSQL` • `Docker` • `AWS` • `Tailwind CSS`
+  - Built comprehensive role-based access control (RBAC) separating Candidates, Reviewers, and System Administrators, paired with Stripe credit pack checkouts.
+- **Tech Stack**: `Next.js 16` • `TypeScript` • `Node.js 20` • `Express 5` • `Prisma` • `PostgreSQL` • `Docker` • `AWS` • `Tailwind CSS`
 - **Links**: [🌐 Live Demo](https://devjudgelivecoding.vercel.app) &nbsp;|&nbsp; [💻 Frontend Repo](https://github.com/myunus-info/phero-batch7-assignment-7) &nbsp;|&nbsp; [⚙️ Backend Repo](https://github.com/myunus-info/phero-batch7-assignment-6)
 
 ---
 
-#### 2. [NexusFlow – Real-Time Collaborative Team Sprint Board](https://gearup-six-kohl.vercel.app)
+#### 2. [GearUp – Outdoor Adventure & Equipment Rental Marketplace](https://gearup-six-kohl.vercel.app)
 
-> **A real-time Kanban project management tool with optimistic UI drag-and-drop, WebSocket live presence, and automated milestone tracking for distributed teams.**
+> **A full-stack gear rental marketplace where customers browse and rent outdoor/sports equipment with automatic inventory decrementing, multi-role dashboards, and payment gateway integration.**
 
-- **Architecture**: Decoupled Next.js 16 client with optimistic caching via TanStack Query and an event-driven Express + Socket.io backend backed by PostgreSQL.
+- **Architecture**: Decoupled Next.js 16 client with optimistic caching via TanStack Query and an event-driven Express 5 backend backed by Prisma and PostgreSQL.
 - **Engineering Highlights**:
-  - Implemented the **LexoRank fractional indexing algorithm**, allowing drag-and-drop re-ordering of cards in $O(1)$ complexity without requiring bulk updates or index shifts across adjacent rows in PostgreSQL.
-  - Incorporated **WebSocket live presence** and state synchronization with automatic rollback mechanisms if a server reconciliation fails.
-  - Secure authentication flow utilizing HTTP-only cookie-based JWTs with automatic refresh token rotation.
-- **Tech Stack**: `Next.js 16` • `React 19` • `TypeScript` • `Express.js` • `Prisma` • `PostgreSQL` • `Socket.io` • `Tailwind CSS`
-- **Links**: [🌐 Live Demo](https://gearup-six-kohl.vercel.app) &nbsp;|&nbsp; [💻 Frontend Repo](https://github.com/myunus-info/phero-batch7-assignment-5) &nbsp;|&nbsp; [⚙️ Backend Repo](https://github.com/myunus-info/phero-batch7-assignment-4)
+  - Engineered transactional checkout flows with **atomic inventory reservations** inside PostgreSQL to guarantee zero overselling during peak booking periods.
+  - Designed distinct role-based permissions and dashboards (`CUSTOMER`, `PROVIDER`, `ADMIN`) with secure HTTP-only cookie JWTs and refresh token rotation.
+  - Integrated payment processing (Stripe / SSLCommerz) with asynchronous webhook signature verification and idempotent order state updates.
+- **Tech Stack**: `Next.js 16` • `React 19` • `TypeScript` • `Express 5` • `Prisma` • `PostgreSQL` • `Stripe API` • `Tailwind CSS`
+- **Links**: [🌐 Live Demo](https://gearup-six-kohl.vercel.app) &nbsp;|&nbsp; [💻 Frontend Repo](https://github.com/myunus-info/gearup-frontend) &nbsp;|&nbsp; [⚙️ Backend Repo](https://github.com/myunus-info/phero-batch7-assignment-4)
 
 ---
 
-#### 3. [PulseCommerce – High-Concurrency Headless Storefront](https://pulsecommerce-demo.vercel.app)
+#### 3. [DevPulse API – Developer Collaboration & Issue Governance Engine](https://devpulse-eight-kappa.vercel.app)
 
-> **A high-throughput e-commerce platform built for high-concurrency retail transactions, featuring transactional row-level inventory reservations and Stripe payment webhooks.**
+> **A high-throughput RESTful API for issue lifecycle tracking, granular contributor governance, and structured PostgreSQL query execution.**
 
-- **Architecture**: Headless architecture pairing edge-cached Next.js 16 catalog rendering with a transactional Node.js / PostgreSQL ordering service.
+- **Architecture**: Modular Express & TypeScript backend architecture with layered controllers, service layer abstractions, and direct PostgreSQL connection pooling (`pg`).
 - **Engineering Highlights**:
-  - Eliminated flash-sale race conditions and overselling by implementing **PostgreSQL row-level locks** (`SELECT FOR UPDATE`) within interactive Prisma transactions (`$transaction`).
-  - Architected idempotent Stripe webhook handling to ensure transactions are never double-charged or fulfilled redundantly.
-  - Built full-text search with instant category filters and persistent client-side shopping cart synchronization.
-- **Tech Stack**: `Next.js 16` • `TypeScript` • `Node.js` • `Express` • `Prisma` • `PostgreSQL` • `Stripe API` • `AWS S3` • `Tailwind CSS`
-- **Links**: [🌐 Live Demo](https://pulsecommerce-demo.vercel.app) &nbsp;|&nbsp; [💻 Source Code](https://github.com/yunus-dev/pulsecommerce-client)
+  - Implemented strict RBAC governance rules: Maintainers retain full administrative oversight across projects, while authenticated Contributors have access scoped strictly to their own issues.
+  - Optimized database query patterns with indexed sorting, pagination offsets, and parameterized SQL queries to protect against SQL injection vulnerabilities.
+  - Deployed on cloud infrastructure with automated CI validation, environment variable auditing, and structured error responses.
+- **Tech Stack**: `Node.js` • `TypeScript` • `Express` • `PostgreSQL` • `JWT Auth` • `bcryptjs` • `RESTful APIs`
+- **Links**: [🌐 Live Endpoint](https://devpulse-eight-kappa.vercel.app) &nbsp;|&nbsp; [💻 Source Code](https://github.com/myunus-info/phero-batch7-assignment-2)
 
 ---
 
@@ -177,7 +177,7 @@ Here is a curated selection of full-stack systems I designed, architected, and s
 └──────────────────────┴────────────────────────┴────────────────────────┘
 ```
 
-1. **Defensive Backend Architecture & Data Integrity**: Systems are built around strict ACID compliance, PostgreSQL relational constraints, and explicit locking (`SELECT FOR UPDATE`) to guarantee zero corrupt state under high concurrency.
+1. **Defensive Backend Architecture & Data Integrity**: Systems are built around strict ACID compliance, PostgreSQL relational constraints, and explicit transactional locking (`SELECT FOR UPDATE`) to guarantee zero corrupt state under high concurrency.
 2. **End-to-End Type Safety**: Shared TypeScript contracts bridge database entities, API response envelopes, and Next.js 16 frontend components, eliminating type mismatch bugs at compile time.
 3. **Cloud-Native & Containerized**: Experienced in containerizing microservices with Docker, deploying resilient workloads on AWS, and designing automated CI/CD deployment pipelines.
 4. **Async-First Mindset**: As a remote engineer, I treat thorough RFC documentation, comprehensive pull request walkthroughs, and automated test coverage as first-class engineering responsibilities.
@@ -187,9 +187,9 @@ Here is a curated selection of full-stack systems I designed, architected, and s
 ### 📝 Technical Writing & Articles
 
 - 📘 [Mastering Database Transactions and Concurrency with Prisma & PostgreSQL](#)  
-  _A deep dive into preventing race conditions, managing pessimistic vs. optimistic locks (`SELECT FOR UPDATE`), and executing atomic workflows in production._
+  *A deep dive into preventing race conditions, managing pessimistic vs. optimistic locks (`SELECT FOR UPDATE`), and executing atomic workflows in production.*
 - 📘 [Why Async-First Communication is the Superpower of Top Remote Software Engineers](#)  
-  _How writing thoughtful pull requests, self-documenting RFCs, and clear architectural summaries elevates engineering impact across international timezones._
+  *How writing thoughtful pull requests, self-documenting RFCs, and clear architectural summaries elevates engineering impact across international timezones.*
 
 ---
 
@@ -243,7 +243,6 @@ Whether you are looking to hire a dedicated **Backend or Full-Stack Engineer**, 
     <img src="https://img.shields.io/badge/GitHub-myunus--info-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-<br/><br/>
-<sub>⭐ Designed with precision for technical recruiters and engineering leaders. Built with clean Markdown & SVG.</sub>
-
+  <br/><br/>
+  <sub>⭐ Designed with precision for technical recruiters and engineering leaders. Built with clean Markdown & SVG.</sub>
 </div>
