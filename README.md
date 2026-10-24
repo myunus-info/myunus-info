@@ -38,7 +38,7 @@
 
 ```yaml
 Role: "Full-Stack Software Engineer (Backend Focus + Modern Frontend)"
-Backend & Cloud: ["Node.js", "Express.js", "NestJS", "PostgreSQL", "Prisma ORM", "Redis", "AWS", "Docker"]
+Backend & Cloud: ["Node.js", "NestJS", "Express.js", "PostgreSQL", "TypeORM", "Prisma", "Redis", "AWS", "Docker"]
 Frontend Core: ["Next.js 16 (App Router)", "React 19", "TypeScript", "Tailwind CSS", "TanStack Query v5"]
 Engineering Focus:
   - "Distributed system design, high-concurrency APIs & microservice patterns"
@@ -73,6 +73,7 @@ Work Authorization: "Open for Global Remote Roles & Sponsorship / Relocation"
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+      <img src="https://img.shields.io/badge/TypeORM-FE0808?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
       <img src="https://img.shields.io/badge/Redis_Caching-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
     </td>
@@ -139,18 +140,18 @@ Here is a curated selection of full-stack systems I designed, architected, and s
 
 #### 2. [GearUp – Outdoor Adventure & Equipment Rental Marketplace](https://gearup-six-kohl.vercel.app)
 
-> **A full-stack gear rental marketplace where customers browse and rent outdoor/sports equipment with automatic inventory decrementing, multi-role dashboards, and payment gateway integration.**
+> **An enterprise-grade gear rental platform where customers browse and rent outdoor/sports equipment with automatic inventory decrementing, multi-role dashboards, and payment gateway integration.**
 
-- **Architecture Overview**: Decoupled Next.js 16 client with optimistic caching via TanStack Query and an event-driven Express 5 backend backed by Prisma and PostgreSQL.
+- **Architecture Overview**: Decoupled Next.js 16 client with optimistic caching via TanStack Query and an enterprise **NestJS** backend built with modular dependency injection, TypeORM, and PostgreSQL.
 - **Key Engineering Highlights**:
   - Engineered transactional checkout flows with **atomic inventory reservations** inside PostgreSQL to guarantee zero overselling during peak booking periods.
-  - Designed distinct role-based permissions and dashboards (`CUSTOMER`, `PROVIDER`, `ADMIN`) with secure HTTP-only cookie JWTs and refresh token rotation.
+  - Built an enterprise **NestJS modular architecture** featuring custom Guards for role-based access control (`CUSTOMER`, `PROVIDER`, `ADMIN`), Passport JWT strategy, and Swagger / OpenAPI documentation.
   - Integrated payment processing (Stripe / SSLCommerz) with asynchronous webhook signature verification and idempotent order state updates.
 - **Detailed Tech Stack**:
   - **Frontend**: Next.js 16 • React 19 • TypeScript • Tailwind CSS • TanStack Query v5 • Radix UI / Shadcn
-  - **Backend**: Node.js • Express 5 • TypeScript • Prisma ORM • PostgreSQL • Stripe API / SSLCommerz • JWT Cookie Auth
-  - **Architecture & Tooling**: ACID Database Transactions • Concurrency Control • Postman API Suites • Git Workflows
-- **Links**: [🌐 Live Demo](https://gearup-six-kohl.vercel.app) &nbsp;|&nbsp; [💻 Frontend Repo](https://github.com/myunus-info/gearup-frontend) &nbsp;|&nbsp; [⚙️ Backend Repo](https://github.com/myunus-info/phero-batch7-assignment-4)
+  - **Backend**: NestJS (v12) • Node.js (v24) • TypeScript • TypeORM • PostgreSQL • Stripe API / SSLCommerz • Passport JWT • Swagger
+  - **Architecture & Tooling**: Modular Dependency Injection • ACID Database Transactions • Concurrency Control • Vitest • Oxlint • Git Workflows
+- **Links**: [🌐 Live Demo](https://gearup-six-kohl.vercel.app) &nbsp;|&nbsp; [💻 Frontend Repo](https://github.com/myunus-info/gearup-frontend) &nbsp;|&nbsp; [⚙️ Backend Repo](https://github.com/myunus-info/gearup-server)
 
 ---
 
