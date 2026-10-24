@@ -122,14 +122,17 @@ Here is a curated selection of full-stack systems I designed, architected, and s
 
 #### 1. [DevJudge – Automated Code Assessment & Sandbox Platform](https://devjudgelivecoding.vercel.app)
 
-> **An enterprise-grade coding assessment and evaluation platform featuring isolated Docker container execution, custom hidden test runners, and real-time execution analytics.**
+> **An enterprise-grade technical hiring platform featuring isolated Docker container execution, custom hidden test runners, and real-time execution telemetry.**
 
-- **Architecture**: Next.js 16 (App Router, Server Actions, Shadcn UI) frontend connected to an Express 5 TypeScript backend with Prisma ORM and PostgreSQL on AWS/Docker.
-- **Engineering Highlights**:
-  - Engineered an isolated execution pipeline utilizing **ephemeral Docker containers** with strict Linux cgroup limits (`512MB RAM cap`, `2.0s execution timeout`, non-root user execution, and network isolation) to safely run untrusted code without system compromise.
-  - Implemented streaming telemetry for CPU usage, memory consumption, and runtime metrics back to the candidate and evaluator dashboard.
+- **Architecture Overview**: Next.js 16 (App Router, Server Actions, Shadcn UI) frontend connected to an Express 5 TypeScript backend with Prisma ORM and PostgreSQL on AWS/Docker.
+- **Key Engineering Highlights**:
+  - Engineered an isolated code execution pipeline utilizing **ephemeral Docker containers** with strict Linux cgroup limits (`512MB RAM cap`, `2.0s execution timeout`, non-root user execution, and network isolation) to safely execute untrusted candidate submissions.
+  - Implemented streaming telemetry for CPU usage, memory consumption, and runtime metrics back to candidate and evaluator dashboards in real time.
   - Built comprehensive role-based access control (RBAC) separating Candidates, Reviewers, and System Administrators, paired with Stripe credit pack checkouts.
-- **Tech Stack**: `Next.js 16` • `TypeScript` • `Node.js 20` • `Express 5` • `Prisma` • `PostgreSQL` • `Docker` • `AWS` • `Tailwind CSS`
+- **Detailed Tech Stack**:
+  - **Frontend**: Next.js 16 (App Router) • React 19 • TypeScript • Tailwind CSS v4 • Shadcn UI • TanStack Query v5 • Biome
+  - **Backend**: Node.js 20+ • Express 5 • TypeScript • Prisma 7 ORM • PostgreSQL 16 • Stripe Payments • RESTful APIs
+  - **Cloud & DevOps**: Ephemeral Docker Sandboxing • AWS (EC2 / S3) • Linux cgroups • GitHub Actions CI/CD
 - **Links**: [🌐 Live Demo](https://devjudgelivecoding.vercel.app) &nbsp;|&nbsp; [💻 Frontend Repo](https://github.com/myunus-info/phero-batch7-assignment-7) &nbsp;|&nbsp; [⚙️ Backend Repo](https://github.com/myunus-info/phero-batch7-assignment-6)
 
 ---
@@ -138,27 +141,16 @@ Here is a curated selection of full-stack systems I designed, architected, and s
 
 > **A full-stack gear rental marketplace where customers browse and rent outdoor/sports equipment with automatic inventory decrementing, multi-role dashboards, and payment gateway integration.**
 
-- **Architecture**: Decoupled Next.js 16 client with optimistic caching via TanStack Query and an event-driven Express 5 backend backed by Prisma and PostgreSQL.
-- **Engineering Highlights**:
+- **Architecture Overview**: Decoupled Next.js 16 client with optimistic caching via TanStack Query and an event-driven Express 5 backend backed by Prisma and PostgreSQL.
+- **Key Engineering Highlights**:
   - Engineered transactional checkout flows with **atomic inventory reservations** inside PostgreSQL to guarantee zero overselling during peak booking periods.
   - Designed distinct role-based permissions and dashboards (`CUSTOMER`, `PROVIDER`, `ADMIN`) with secure HTTP-only cookie JWTs and refresh token rotation.
   - Integrated payment processing (Stripe / SSLCommerz) with asynchronous webhook signature verification and idempotent order state updates.
-- **Tech Stack**: `Next.js 16` • `React 19` • `TypeScript` • `Express 5` • `Prisma` • `PostgreSQL` • `Stripe API` • `Tailwind CSS`
+- **Detailed Tech Stack**:
+  - **Frontend**: Next.js 16 • React 19 • TypeScript • Tailwind CSS • TanStack Query v5 • Radix UI / Shadcn
+  - **Backend**: Node.js • Express 5 • TypeScript • Prisma ORM • PostgreSQL • Stripe API / SSLCommerz • JWT Cookie Auth
+  - **Architecture & Tooling**: ACID Database Transactions • Concurrency Control • Postman API Suites • Git Workflows
 - **Links**: [🌐 Live Demo](https://gearup-six-kohl.vercel.app) &nbsp;|&nbsp; [💻 Frontend Repo](https://github.com/myunus-info/gearup-frontend) &nbsp;|&nbsp; [⚙️ Backend Repo](https://github.com/myunus-info/phero-batch7-assignment-4)
-
----
-
-#### 3. [DevPulse API – Developer Collaboration & Issue Governance Engine](https://devpulse-eight-kappa.vercel.app)
-
-> **A high-throughput RESTful API for issue lifecycle tracking, granular contributor governance, and structured PostgreSQL query execution.**
-
-- **Architecture**: Modular Express & TypeScript backend architecture with layered controllers, service layer abstractions, and direct PostgreSQL connection pooling (`pg`).
-- **Engineering Highlights**:
-  - Implemented strict RBAC governance rules: Maintainers retain full administrative oversight across projects, while authenticated Contributors have access scoped strictly to their own issues.
-  - Optimized database query patterns with indexed sorting, pagination offsets, and parameterized SQL queries to protect against SQL injection vulnerabilities.
-  - Deployed on cloud infrastructure with automated CI validation, environment variable auditing, and structured error responses.
-- **Tech Stack**: `Node.js` • `TypeScript` • `Express` • `PostgreSQL` • `JWT Auth` • `bcryptjs` • `RESTful APIs`
-- **Links**: [🌐 Live Endpoint](https://devpulse-eight-kappa.vercel.app) &nbsp;|&nbsp; [💻 Source Code](https://github.com/myunus-info/phero-batch7-assignment-2)
 
 ---
 
