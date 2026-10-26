@@ -8,7 +8,7 @@ Cairo, Egypt (EET / UTC+2) • Open to Remote & Relocation
 ---
 
 ## PROFESSIONAL SUMMARY
-Full-Stack Software Engineer with 3+ years of experience engineering high-performance web applications, scalable RESTful APIs, and responsive client interfaces using **TypeScript, Next.js 16 (App Router), React 19, Node.js, Express, NestJS, and PostgreSQL**. Delivered nationwide logistics solutions at Dream IT LTD (DaakBangla) handling 50,000+ monthly tracking requests. Skilled in transactional database modeling (Prisma, TypeORM), Redis caching, and Docker containerization on AWS.
+Full-Stack Software Engineer with 4+ years of software development experience (programming journey begun in January 2020), combining industry engineering roles with continuous, dedicated specialization in modern web architecture. Proven track record architecting modular backend services for enterprise logistics systems (DaakBangla at Dream IT LTD) and building full-stack platforms with **Next.js 16 (App Router), React 19, TypeScript, NestJS, and PostgreSQL**. Skilled in transactional database modeling (TypeORM, Prisma), Redis caching, and Docker containerization on AWS.
 
 ---
 
@@ -20,15 +20,20 @@ Full-Stack Software Engineer with 3+ years of experience engineering high-perfor
 
 ---
 
-## WORK EXPERIENCE
+## PROFESSIONAL EXPERIENCE
+
+### **Full-Stack Software Engineer** — Independent Project Engineering
+*Remote | 2023 – Present*
+- Undertook dedicated advanced engineering specialization; architected and shipped production platforms (**DevJudge**, **GearUp**) utilizing Next.js 16 App Router, React 19, NestJS, and PostgreSQL.
+- Engineered complex backend integrations including database transactional row-locking (`SELECT FOR UPDATE`), in-browser Web Worker sandboxes, and full-stack type safety with Prisma and TypeORM.
 
 ### **Dream IT LTD** — Software Engineer
-*Dhaka, Bangladesh (Remote) | July 2022 – Present*
-- Architected backend RESTful services for **DaakBangla**, a nationwide courier and parcel logistics platform serving **50,000+** monthly tracking queries.
-- Engineered normalized PostgreSQL and MySQL schemas with compound indexes, reducing API latency by **38%** for real-time shipment updates.
-- Integrated Redis in-memory caching for merchant reporting dashboards and package tracking queries, cutting primary database load by **45%**.
-- Implemented secure JWT authentication with HTTP-only cookies and Role-Based Access Control (RBAC) across dispatchers, couriers, and merchants.
-- Containerized microservices using Docker and automated AWS deployment pipelines (EC2, S3), ensuring **99.9%** uptime during peak campaigns.
+*Dhaka, Bangladesh | July 2022 – 2023*
+- Architected backend RESTful services and dispatch workflows for **DaakBangla**, an enterprise-grade nationwide parcel delivery and courier logistics platform prototype.
+- Engineered normalized PostgreSQL and MySQL schemas with compound indexes, achieving sub-100ms response benchmarks during staging load tests.
+- Integrated Redis in-memory caching for merchant reporting dashboards and package status lookups to prevent database bottlenecks under concurrent access.
+- Designed secure authentication workflows utilizing JWT HTTP-only cookies and Role-Based Access Control (RBAC) across dispatchers, couriers, and merchants.
+- Containerized microservices using Docker and configured AWS staging pipelines (EC2, S3), adhering to modular clean architecture principles.
 
 ### **Aurora IT** — Software Engineer (Intern)
 *Dhaka, Bangladesh | May 2022 – June 2022*
@@ -49,10 +54,10 @@ Full-Stack Software Engineer with 3+ years of experience engineering high-perfor
 *Next.js 16, NestJS, TypeScript, TypeORM, PostgreSQL, Stripe API, Tailwind CSS, Shadcn UI*  
 **Links:** [Live Demo](https://gearup-six-kohl.vercel.app) | [Client Repo](https://github.com/myunus-info/gearup-frontend) | [Server Repo](https://github.com/myunus-info/gearup-server)
 - Architected a two-sided gear rental marketplace with 3 role-specific dashboards (Customer, Provider, Admin) for rental workflows, gear CRUD, and order fulfillment.
-- Implemented database transactional row-locking in PostgreSQL to eliminate concurrency race conditions and prevent equipment double-booking during checkout.
+- Implemented database transactional row-locking in PostgreSQL via TypeORM to eliminate concurrency race conditions and prevent equipment double-booking during checkout.
 
 ---
 
 ## EDUCATION & CERTIFICATIONS
-- **Uttara University:** Bachelor of Arts (English Language & Literature) • *CGPA: 3.92 / 4.00* • Focus: Technical Writing & Analytical Problem Solving. 3+ years intensive self-directed CS & system design.
+- **Uttara University:** Bachelor of Arts (English Language & Literature) • *CGPA: 3.92 / 4.00* • Focus: Technical Writing & Analytical Problem Solving. 4+ years self-directed CS & system design (begun Jan 2020).
 - **Certifications:** **AWS Certified Cloud Practitioner** (Amazon Web Services, Nov 2022) • Full-Stack Web Development Track (Programming Hero, 2023–2024).

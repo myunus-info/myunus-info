@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Muhammad Yunus – Full-Stack Software Engineer – 1-Page ATS Resume</title>
   <style>
-    /* Reset */
+    /* Reset & Base */
     *, *::before, *::after {
       box-sizing: border-box;
       margin: 0;
@@ -16,8 +16,8 @@
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
       color: #0f172a;
       background-color: #f1f5f9;
-      line-height: 1.35;
-      font-size: 8.8pt;
+      line-height: 1.32;
+      font-size: 8.6pt;
       -webkit-font-smoothing: antialiased;
     }
 
@@ -77,12 +77,12 @@
       background: #1d4ed8;
     }
 
-    /* Resume Page Container - Calibrated for EXACT 1-Page Print */
+    /* Resume Page Container - Strict 1-Page Calibrated */
     .resume-sheet {
       max-width: 800px;
       margin: 0 auto 24px;
       background: #ffffff;
-      padding: 28px 36px;
+      padding: 26px 36px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
       border-radius: 2px;
     }
@@ -91,12 +91,12 @@
     header {
       text-align: center;
       border-bottom: 1.5px solid #0f172a;
-      padding-bottom: 6px;
-      margin-bottom: 8px;
+      padding-bottom: 5px;
+      margin-bottom: 7px;
     }
 
     h1.name {
-      font-size: 19pt;
+      font-size: 18pt;
       font-weight: 800;
       letter-spacing: -0.3px;
       color: #0f172a;
@@ -105,20 +105,20 @@
     }
 
     .role-title {
-      font-size: 9.8pt;
+      font-size: 9.5pt;
       font-weight: 700;
       color: #2563eb;
       margin-top: 1px;
     }
 
     .contact-row {
-      font-size: 8.3pt;
+      font-size: 8.2pt;
       color: #334155;
-      margin-top: 4px;
+      margin-top: 3px;
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
-      gap: 4px 10px;
+      gap: 3px 9px;
     }
 
     .contact-row a {
@@ -134,32 +134,32 @@
 
     /* Sections */
     section {
-      margin-bottom: 8px;
+      margin-bottom: 7px;
     }
 
     h2.section-heading {
-      font-size: 9.2pt;
+      font-size: 9pt;
       font-weight: 800;
       color: #0f172a;
       text-transform: uppercase;
       letter-spacing: 0.6px;
       border-bottom: 1px solid #cbd5e1;
       padding-bottom: 1.5px;
-      margin-bottom: 4px;
+      margin-bottom: 3.5px;
     }
 
     .summary-text {
-      font-size: 8.5pt;
+      font-size: 8.4pt;
       color: #334155;
-      line-height: 1.38;
+      line-height: 1.34;
       text-align: justify;
     }
 
     /* Skills */
     .skills-group {
-      font-size: 8.3pt;
-      margin-bottom: 2.5px;
-      line-height: 1.32;
+      font-size: 8.2pt;
+      margin-bottom: 2px;
+      line-height: 1.3;
     }
 
     .skills-group strong {
@@ -173,7 +173,7 @@
 
     /* Entries */
     .entry {
-      margin-bottom: 6px;
+      margin-bottom: 5px;
     }
 
     .entry:last-child {
@@ -184,7 +184,7 @@
       display: flex;
       justify-content: space-between;
       align-items: baseline;
-      font-size: 8.8pt;
+      font-size: 8.6pt;
       margin-bottom: 1px;
     }
 
@@ -194,17 +194,17 @@
     }
 
     .entry-date {
-      font-size: 8.1pt;
+      font-size: 8pt;
       color: #475569;
       font-weight: 600;
       text-align: right;
     }
 
     .entry-tech {
-      font-size: 7.9pt;
+      font-size: 7.8pt;
       color: #475569;
       font-style: italic;
-      margin-bottom: 2px;
+      margin-bottom: 1.5px;
     }
 
     .entry-tech a {
@@ -217,14 +217,14 @@
     ul.bullet-list {
       list-style-type: disc;
       padding-left: 14px;
-      margin-top: 1.5px;
+      margin-top: 1px;
     }
 
     ul.bullet-list li {
-      font-size: 8.3pt;
+      font-size: 8.2pt;
       color: #334155;
-      margin-bottom: 1.5px;
-      line-height: 1.32;
+      margin-bottom: 1px;
+      line-height: 1.3;
     }
 
     ul.bullet-list li strong {
@@ -235,19 +235,20 @@
     .two-col-grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 12px;
+      gap: 10px;
     }
 
     .col-item h3 {
-      font-size: 8.6pt;
+      font-size: 8.4pt;
       font-weight: 700;
       color: #0f172a;
     }
 
     .col-item p {
-      font-size: 8.1pt;
+      font-size: 7.9pt;
       color: #475569;
       margin-top: 1px;
+      line-height: 1.28;
     }
 
     /* Print Setup */
@@ -255,7 +256,7 @@
       body {
         background: #ffffff;
         color: #000000;
-        font-size: 8.5pt;
+        font-size: 8.3pt;
       }
 
       .no-print {
@@ -271,7 +272,7 @@
       }
 
       @page {
-        margin: 8mm 10mm;
+        margin: 7mm 9mm;
         size: A4 portrait;
       }
 
@@ -280,7 +281,6 @@
         text-decoration: none !important;
       }
 
-      /* Force Strict Single Page */
       html, body {
         height: 100%;
         overflow: hidden;
@@ -297,7 +297,7 @@
         Muhammad Yunus – ATS Resume
         <span class="badge-onepage">Strict 1-Page Layout</span>
       </h1>
-      <p>Optimized single-column parsing, zero overflow, ready to export via Print (Ctrl + P).</p>
+      <p>Truthful narrative, Jan 2020 programming journey, calibrated for instant 1-page PDF export.</p>
     </div>
     <button class="btn-print" onclick="window.print()">
       <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -317,7 +317,7 @@
       <h1 class="name">Muhammad Yunus</h1>
       <div class="role-title">Full-Stack Software Engineer &bull; Next.js 16 &bull; TypeScript &bull; Node.js &bull; Cloud</div>
       <div class="contact-row">
-        <span>Cairo, Egypt (EET / UTC+2) &bull; Open to Remote</span>
+        <span>Cairo, Egypt (EET / UTC+2) &bull; Open to Remote & Relocation</span>
         <span>Phone/WhatsApp: <a href="https://wa.me/201025689042">+20 1025-689042</a></span>
         <span>Email: <a href="mailto:myunus.info@gmail.com">myunus.info@gmail.com</a></span>
       </div>
@@ -332,7 +332,7 @@
     <section>
       <h2 class="section-heading">Professional Summary</h2>
       <p class="summary-text">
-        Full-Stack Software Engineer with 3+ years of experience engineering high-performance web applications, scalable RESTful APIs, and responsive interfaces with <strong>TypeScript, Next.js 16 (App Router), React 19, Node.js, Express, NestJS, and PostgreSQL</strong>. Delivered nationwide logistics solutions at Dream IT LTD (DaakBangla) handling 50,000+ monthly tracking requests. Skilled in transactional database modeling (Prisma, TypeORM), Redis caching, and Docker containerization on AWS.
+        Full-Stack Software Engineer with 4+ years of software development experience (programming journey begun in January 2020), combining industry engineering roles with continuous, dedicated specialization in modern web architecture. Proven track record architecting modular backend services for enterprise logistics systems (DaakBangla at Dream IT LTD) and building full-stack platforms with <strong>Next.js 16 (App Router), React 19, TypeScript, NestJS, and PostgreSQL</strong>. Skilled in transactional database modeling (TypeORM, Prisma), Redis caching, and Docker containerization on AWS.
       </p>
     </section>
 
@@ -361,18 +361,30 @@
     <section>
       <h2 class="section-heading">Professional Experience</h2>
 
+      <!-- Independent / Advanced Specialization -->
+      <article class="entry">
+        <div class="entry-header">
+          <div class="entry-title">Full-Stack Software Engineer &bull; Independent Project Engineering</div>
+          <div class="entry-date">2023 &ndash; Present | Remote</div>
+        </div>
+        <ul class="bullet-list">
+          <li>Undertook dedicated advanced engineering specialization; architected and shipped production platforms (**DevJudge**, **GearUp**) utilizing Next.js 16 App Router, React 19, NestJS, and PostgreSQL.</li>
+          <li>Engineered complex backend integrations including database transactional row-locking (`SELECT FOR UPDATE`), in-browser Web Worker sandboxes, and full-stack type safety with Prisma and TypeORM.</li>
+        </ul>
+      </article>
+
       <!-- Dream IT LTD -->
       <article class="entry">
         <div class="entry-header">
           <div class="entry-title">Software Engineer &bull; Dream IT LTD</div>
-          <div class="entry-date">July 2022 &ndash; Present | Dhaka, Bangladesh (Remote)</div>
+          <div class="entry-date">July 2022 &ndash; 2023 | Dhaka, Bangladesh</div>
         </div>
         <ul class="bullet-list">
-          <li>Architected backend RESTful services for <strong>DaakBangla</strong>, a nationwide courier and parcel logistics platform serving <strong>50,000+</strong> monthly tracking queries.</li>
-          <li>Engineered normalized PostgreSQL and MySQL schemas with compound indexes, reducing API latency by <strong>38%</strong> for real-time shipment updates.</li>
-          <li>Integrated Redis in-memory caching for merchant reporting dashboards and package tracking queries, cutting primary database load by <strong>45%</strong>.</li>
-          <li>Implemented secure JWT authentication with HTTP-only cookies and Role-Based Access Control (RBAC) across dispatchers, couriers, and merchants.</li>
-          <li>Containerized microservices using Docker and automated AWS deployment pipelines (EC2, S3), ensuring <strong>99.9%</strong> uptime during peak campaigns.</li>
+          <li>Architected backend RESTful services and dispatch workflows for <strong>DaakBangla</strong>, an enterprise-grade nationwide parcel delivery and courier logistics platform prototype.</li>
+          <li>Engineered normalized PostgreSQL and MySQL schemas with compound indexes, achieving sub-100ms response benchmarks during staging load tests.</li>
+          <li>Integrated Redis in-memory caching for merchant reporting dashboards and package status lookups to prevent database bottlenecks under concurrent access.</li>
+          <li>Designed secure authentication workflows utilizing JWT HTTP-only cookies and Role-Based Access Control (RBAC) across dispatchers, couriers, and merchants.</li>
+          <li>Containerized microservices using Docker and configured AWS staging pipelines (EC2, S3), adhering to modular clean architecture principles.</li>
         </ul>
       </article>
 
@@ -384,7 +396,7 @@
         </div>
         <ul class="bullet-list">
           <li>Developed internal dashboard modules and RESTful endpoints using Node.js, Express, and JavaScript within an Agile sprint team.</li>
-          <li>Wrote automated integration and unit test suites that expanded regression test coverage across core API routes by <strong>25%</strong>.</li>
+          <li>Authored automated integration and unit test suites, expanding test coverage across core API routes by <strong>25%</strong>.</li>
         </ul>
       </article>
     </section>
@@ -396,7 +408,7 @@
       <!-- DevJudge -->
       <article class="entry">
         <div class="entry-header">
-          <div class="entry-title">DevJudge &ndash; Automated Code Assessment & Live Arena</div>
+          <div class="entry-title">DevJudge &ndash; Automated Code Assessment & Live Coding Arena</div>
           <div class="entry-tech">
             <a href="https://devjudgelivecoding.vercel.app" target="_blank">Live Demo</a> | 
             <a href="https://github.com/myunus-info/phero-batch7-assignment-7" target="_blank">Client Repo</a> | 
@@ -423,7 +435,7 @@
         <div class="entry-tech">Next.js 16, NestJS, TypeScript, TypeORM, PostgreSQL, Stripe API, Tailwind CSS, Shadcn UI</div>
         <ul class="bullet-list">
           <li>Architected a two-sided gear rental marketplace with 3 role-specific dashboards (Customer, Provider, Admin) for rental workflows, gear CRUD, and order fulfillment.</li>
-          <li>Implemented database transactional row-locking in PostgreSQL to eliminate concurrency race conditions and prevent equipment double-booking during checkout.</li>
+          <li>Implemented database transactional row-locking in PostgreSQL via TypeORM to eliminate concurrency race conditions and prevent equipment double-booking during checkout.</li>
         </ul>
       </article>
     </section>
@@ -434,7 +446,7 @@
       <div class="two-col-grid">
         <div class="col-item">
           <h3>Uttara University &bull; B.A. (English)</h3>
-          <p><strong>CGPA: 3.92 / 4.00</strong> &bull; Focus: Technical Writing & Analytical Problem Solving. 3+ years intensive self-directed CS & system design.</p>
+          <p><strong>CGPA: 3.92 / 4.00</strong> &bull; Focus: Technical Writing & Analytical Problem Solving. 4+ years self-directed CS & system design (begun Jan 2020).</p>
         </div>
         <div class="col-item">
           <h3>AWS Certified Cloud Practitioner</h3>
