@@ -24,7 +24,7 @@ Full-Stack Software Engineer with 4+ years of software development experience (p
 
 ### **Full-Stack Software Engineer** — Independent Project Engineering
 *Remote | 2023 – Present*
-- Undertook dedicated advanced engineering specialization; architected and shipped production platforms (**DevJudge**, **GearUp**) utilizing Next.js 16 App Router, React 19, NestJS, and PostgreSQL.
+- Undertook dedicated advanced engineering specialization; architected and shipped production platforms (DevJudge, GearUp) utilizing Next.js 16 App Router, React 19, NestJS, and PostgreSQL.
 - Engineered complex backend integrations including database transactional row-locking (`SELECT FOR UPDATE`), in-browser Web Worker sandboxes, and full-stack type safety with Prisma and TypeORM.
 
 ### **Full-Stack Software Engineer (Contract)** — Independent Contractor / US Client
