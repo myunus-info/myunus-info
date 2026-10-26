@@ -28,8 +28,8 @@
     <a href="https://calendly.com/myunus-info/30min">
       <img src="https://img.shields.io/badge/Calendly-15--Min_Intro-006BFF?style=flat-square&logo=calendly&logoColor=white" alt="Calendly" />
     </a>
-    <a href="tel:+8801928566200">
-      <img src="https://img.shields.io/badge/Phone-%2B880_1928--566200-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
+    <a href="https://wa.me/201025689042">
+      <img src="https://img.shields.io/badge/WhatsApp-%2B20_1025--689042-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
     <img src="https://img.shields.io/badge/Location-Dhaka%2C_Bangladesh_%7C_EET_Remote-1F2937?style=flat-square" alt="Location" />
   </p>
