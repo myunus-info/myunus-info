@@ -170,29 +170,20 @@ Here are three flagship client-side applications showcasing production architect
 
 ### GitHub Activity
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/myunus-info">
-          <img src="https://github-readme-stats.vercel.app/api?username=myunus-info&show_icons=true&theme=tokyonight&hide_border=true" width="410" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/myunus-info">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myunus-info&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="370" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/myunus-info">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=myunus-info&theme=tokyonight&hide_border=true" width="790" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/myunus-info">
+    <img src="https://github-readme-stats.vercel.app/api?username=myunus-info&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/myunus-info">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myunus-info&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="195" alt="Top Languages" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/myunus-info">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=myunus-info&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
