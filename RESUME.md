@@ -8,7 +8,7 @@ Cairo, Egypt (EET / UTC+2) • Open to Remote & Relocation
 ---
 
 ## PROFESSIONAL SUMMARY
-Full-Stack Software Engineer with 4+ years of software development experience (programming journey begun in January 2020), combining industry engineering roles with continuous, dedicated specialization in modern web architecture. Proven track record architecting modular backend services for enterprise logistics systems (DaakBangla at Dream IT LTD) and building full-stack platforms with **Next.js 16 (App Router), React 19, TypeScript, NestJS, and PostgreSQL**. Skilled in transactional database modeling (TypeORM, Prisma), Redis caching, and Docker containerization on AWS.
+Full-Stack Software Engineer with 4+ years of software development experience (programming journey begun in January 2020), combining US client engineering contract experience with continuous specialization in modern web systems. Proven track record architecting modular backend services for enterprise logistics systems (DaakBangla) and building full-stack platforms with **Next.js 16 (App Router), React 19, TypeScript, NestJS, and PostgreSQL**. Skilled in transactional database modeling (TypeORM, Prisma), Redis caching, and Docker containerization on AWS.
 
 ---
 
@@ -27,15 +27,16 @@ Full-Stack Software Engineer with 4+ years of software development experience (p
 - Undertook dedicated advanced engineering specialization; architected and shipped production platforms (**DevJudge**, **GearUp**) utilizing Next.js 16 App Router, React 19, NestJS, and PostgreSQL.
 - Engineered complex backend integrations including database transactional row-locking (`SELECT FOR UPDATE`), in-browser Web Worker sandboxes, and full-stack type safety with Prisma and TypeORM.
 
-### **Dream IT LTD** — Software Engineer
-*Dhaka, Bangladesh | July 2022 – 2023*
+### **Full-Stack Software Engineer (Contract)** — Independent Contractor / US Client
+*New York, United States (Remote) | July 2022 – January 2023 (7 mos)*  
+*Core Software Engineer on 'DaakBangla' – enterprise courier and parcel logistics delivery platform*
 - Architected backend RESTful services and dispatch workflows for **DaakBangla**, an enterprise-grade nationwide parcel delivery and courier logistics platform prototype.
 - Engineered normalized PostgreSQL and MySQL schemas with compound indexes, achieving sub-100ms response benchmarks during staging load tests.
 - Integrated Redis in-memory caching for merchant reporting dashboards and package status lookups to prevent database bottlenecks under concurrent access.
 - Designed secure authentication workflows utilizing JWT HTTP-only cookies and Role-Based Access Control (RBAC) across dispatchers, couriers, and merchants.
 - Containerized microservices using Docker and configured AWS staging pipelines (EC2, S3), adhering to modular clean architecture principles.
 
-### **Aurora IT** — Software Engineer (Intern)
+### **Software Engineer (Intern)** — Aurora IT
 *Dhaka, Bangladesh | May 2022 – June 2022*
 - Developed internal dashboard modules and RESTful endpoints using Node.js, Express, and JavaScript within an Agile sprint team.
 - Wrote automated integration and unit test suites that expanded regression test coverage across core API routes by **25%**.
