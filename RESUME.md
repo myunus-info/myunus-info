@@ -8,7 +8,7 @@ Cairo, Egypt (EET / UTC+2) • Open to Remote & Relocation
 ---
 
 ## PROFESSIONAL SUMMARY
-Full-Stack Software Engineer with 4+ years of software development experience (programming journey begun in January 2020), combining US client engineering contract experience with continuous specialization in modern web systems. Proven track record architecting modular backend services for enterprise logistics systems (DaakBangla) and building full-stack platforms with **Next.js 16 (App Router), React 19, TypeScript, NestJS, and PostgreSQL**. Skilled in transactional database modeling (TypeORM, Prisma), Redis caching, and Docker containerization on AWS.
+Full-Stack Software Engineer with 4+ years of software development experience (programming journey begun in January 2020 through intensive tracks across **Creative IT, Pondit, Programming Hero, and extensive Udemy coursework**). Maintained an unbroken dedication to mastering modern web architecture and AWS/cloud systems concurrently alongside internships and US client contract work. Proven track record architecting modular backend services for enterprise logistics systems (DaakBangla) and building production platforms with **Next.js 16 (App Router), React 19, TypeScript, NestJS, and PostgreSQL**. Skilled in transactional database modeling (TypeORM, Prisma), Redis caching, and Docker containerization on AWS.
 
 ---
 
@@ -29,7 +29,7 @@ Full-Stack Software Engineer with 4+ years of software development experience (p
 
 ### **Full-Stack Software Engineer (Contract)** — Independent Contractor / US Client
 *New York, United States (Remote) | July 2022 – January 2023 (7 mos)*  
-*Core Software Engineer on 'DaakBangla' – enterprise courier and parcel logistics delivery platform*
+*Core Software Engineer on 'DaakBangla' – enterprise courier and parcel logistics platform prototype*
 - Architected backend RESTful services and dispatch workflows for **DaakBangla**, an enterprise-grade nationwide parcel delivery and courier logistics platform prototype.
 - Engineered normalized PostgreSQL and MySQL schemas with compound indexes, achieving sub-100ms response benchmarks during staging load tests.
 - Integrated Redis in-memory caching for merchant reporting dashboards and package status lookups to prevent database bottlenecks under concurrent access.
@@ -59,6 +59,6 @@ Full-Stack Software Engineer with 4+ years of software development experience (p
 
 ---
 
-## EDUCATION & CERTIFICATIONS
-- **Uttara University:** Bachelor of Arts (English Language & Literature) • *CGPA: 3.92 / 4.00* • Focus: Technical Writing & Analytical Problem Solving. 4+ years self-directed CS & system design (begun Jan 2020).
-- **Certifications:** **AWS Certified Cloud Practitioner** (Amazon Web Services, Nov 2022) • Full-Stack Web Development Track (Programming Hero, 2023–2024).
+## EDUCATION & TECHNICAL TRAINING
+- **Uttara University:** Bachelor of Arts (English Language & Literature) • *CGPA: 3.92 / 4.00* • Focus: Technical Writing & Analytical Problem Solving. 4+ years continuous self-directed CS & system design study (begun Jan 2020).
+- **AWS Certified Cloud Practitioner** (Amazon Web Services, Nov 2022) • Specialized Full-Stack & AWS/Cloud Training: **Creative IT, Pondit, Programming Hero, and extensive Udemy coursework** (maintained continuous skill growth alongside jobs and internships).
