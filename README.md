@@ -14,108 +14,56 @@
     <strong>Full-Stack Software Engineer</strong> specializing in scalable web systems, performant distributed APIs, and accessible user interfaces with <strong>Next.js 16, React 19, TypeScript, Node.js, and PostgreSQL</strong>.
   </p>
 
-  <!-- Location, Email & Contact Badges (Rubric Item 2) -->
+  <!-- Contact & Location Links -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh%20%7C%20EET%20Remote-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+    <a href="https://www.linkedin.com/in/yunus-profile">
+      <img src="https://img.shields.io/badge/LinkedIn-yunus--profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
     <a href="mailto:myunus.info@gmail.com">
       <img src="https://img.shields.io/badge/Email-myunus.info%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="tel:+8801928566200">
-      <img src="https://img.shields.io/badge/Phone-%2B880%201928--566200-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
-    </a>
-    <a href="https://linkedin.com/in/myunus-info">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
     <a href="https://calendly.com/myunus-info/30min">
-      <img src="https://img.shields.io/badge/Calendly-15--Min%20Intro-006BFF?style=flat-square&logo=calendly&logoColor=white" alt="Calendly" />
+      <img src="https://img.shields.io/badge/Calendly-15--Min_Intro-006BFF?style=flat-square&logo=calendly&logoColor=white" alt="Calendly" />
     </a>
+    <a href="tel:+8801928566200">
+      <img src="https://img.shields.io/badge/Phone-%2B880_1928--566200-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Dhaka%2C_Bangladesh_%7C_EET_Remote-1F2937?style=flat-square" alt="Location" />
   </p>
 
 </div>
 
 ---
 
-### 👤 About Me
+### About Me
 
 Hi! I'm **Muhammad Yunus**, a Full-Stack Software Engineer with 3+ years of experience designing and shipping production web applications. I focus on clean code structure, transactional database integrity, and snappy page performance across modern Next.js frontends and Node.js/PostgreSQL backends. I have delivered production software for international remote clients and cross-functional teams with an async-first engineering mindset.
 
 ---
 
-### 🔭 Current Activities *(Rubric Item 3)*
+### Current Focus
 
-- 🔭 **I’m currently working on**: Production web platforms with Next.js 16 App Router, transactional PostgreSQL workflows, and headless eCommerce systems.
-- 🌱 **I’m currently exploring**: React 19 Concurrent APIs, server-side caching primitives with Next.js 16, and isolated Docker container runners for untrusted code execution.
-- ⚡ **Latest Deployed Project**: [DevJudge](https://devjudgelivecoding.vercel.app) — a live technical assessment platform with Monaco Editor and in-browser Web Worker sandboxing.
-- 💬 **Ask me about**: Next.js App Router, TypeScript strict typing, Prisma ORM transactions, and PostgreSQL concurrency control (`SELECT FOR UPDATE`).
-- ⚡ **Fun fact**: Outside of programming, I enjoy competitive chess tactics, road cycling, and studying English literature.
-
----
-
-### 🛠️ Technical Skills Matrix *(Categorized with Visual Icons)*
-
-<table>
-  <!-- Frontend Core -->
-  <tr>
-    <td width="24%" align="center"><strong>Frontend Core</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
-      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-  </tr>
-  <!-- State & Client Architecture -->
-  <tr>
-    <td width="24%" align="center"><strong>State & Data Layer</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/TanStack_Query_v5-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
-      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" alt="Zustand" />
-      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
-      <img src="https://img.shields.io/badge/Zod_Validation-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
-    </td>
-  </tr>
-  <!-- Backend & APIs -->
-  <tr>
-    <td width="24%" align="center"><strong>Backend & APIs</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-      <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST" />
-      <img src="https://img.shields.io/badge/JWT_%26_OAuth_2.0-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="Auth" />
-      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
-    </td>
-  </tr>
-  <!-- Databases & Caching -->
-  <tr>
-    <td width="24%" align="center"><strong>Databases & Storage</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Redis_Caching-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-    </td>
-  </tr>
-  <!-- Cloud, DevOps & Tools -->
-  <tr>
-    <td width="24%" align="center"><strong>Cloud & DevOps</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Linux_Bash-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-    </td>
-  </tr>
-</table>
+- **Currently working on**: Production web platforms with Next.js 16 App Router, transactional PostgreSQL workflows, and headless eCommerce systems.
+- **Currently exploring**: React 19 Concurrent APIs, server-side caching primitives with Next.js 16, and isolated Docker container runners for untrusted code execution.
+- **Latest deployed project**: [DevJudge](https://devjudgelivecoding.vercel.app) — a live technical assessment platform with Monaco Editor and in-browser Web Worker sandboxing.
+- **Ask me about**: Next.js App Router, TypeScript strict typing, Prisma ORM transactions, and PostgreSQL concurrency control (`SELECT FOR UPDATE`).
+- **Interests**: Outside of programming, I enjoy competitive chess tactics, road cycling, and studying English literature.
 
 ---
 
-### 🚀 Pinned Client-Side Projects *(At least 3 Projects - Rubric Items 4 & 5)*
+### Technical Skills
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Frontend Core** | Next.js 16 (App Router), React 19, TypeScript, JavaScript (ES6+), Tailwind CSS v4, Shadcn UI, HTML5, CSS3 |
+| **State & Data Layer** | TanStack Query v5, Zustand, Redux Toolkit, Zod Validation |
+| **Backend & APIs** | Node.js, Express.js, NestJS, RESTful APIs, JWT & OAuth 2.0, WebSockets (Socket.io) |
+| **Databases & Storage** | PostgreSQL, Prisma ORM, TypeORM, MongoDB, Redis Caching |
+| **Cloud & DevOps** | AWS, Docker, Git & GitHub, Postman, Linux / Bash |
+
+---
+
+### Featured Projects
 
 Here are three flagship client-side applications showcasing production architecture, responsive UI design, and full-stack API integration:
 
@@ -130,7 +78,7 @@ Here are three flagship client-side applications showcasing production architect
   - Safe in-browser execution sandbox via dedicated Web Worker (`clientCodeRunner.ts`) with console capture and timeout guards.
   - 3-step Recruiter Assessment Wizard with score cutoffs, time limits, and automated candidate scorecards.
   - Role-Based Access Control (`CANDIDATE`, `RECRUITER`, `ADMIN`) with JWT HTTP-only cookies.
-- **Links**: [🌐 Live Demo](https://devjudgelivecoding.vercel.app) &nbsp;|&nbsp; [💻 Client Repository](https://github.com/myunus-info/phero-batch7-assignment-7) &nbsp;|&nbsp; [⚙️ Server Repository](https://github.com/myunus-info/phero-batch7-assignment-6)
+- **Links**: [Live Demo](https://devjudgelivecoding.vercel.app) &nbsp;|&nbsp; [Client Repository](https://github.com/myunus-info/phero-batch7-assignment-7) &nbsp;|&nbsp; [Server Repository](https://github.com/myunus-info/phero-batch7-assignment-6)
 
 ---
 
@@ -145,7 +93,7 @@ Here are three flagship client-side applications showcasing production architect
   - Faceted search engine filtering by brand, category, condition, and price with optimistic client-side caching.
   - Server Actions authentication with JWT stored securely in HTTP-only cookies and automatic refresh token rotation.
   - Rental checkout pipeline with date-conflict validation to prevent equipment double-booking.
-- **Links**: [🌐 Live Demo](https://gearup-six-kohl.vercel.app) &nbsp;|&nbsp; [💻 Client Repository](https://github.com/myunus-info/phero-batch7-assignment-5) &nbsp;|&nbsp; [⚙️ Server Repository](https://github.com/myunus-info/phero-batch7-assignment-4)
+- **Links**: [Live Demo](https://gearup-six-kohl.vercel.app) &nbsp;|&nbsp; [Client Repository](https://github.com/myunus-info/gearup-frontend) &nbsp;|&nbsp; [Server Repository](https://github.com/myunus-info/gearup-server)
 
 ---
 
@@ -160,11 +108,11 @@ Here are three flagship client-side applications showcasing production architect
   - Direct Connect Hub with one-click email copying, prefilled `mailto:` links, and Calendly meeting booking integration.
   - Interactive ATS-friendly resume viewer with direct PDF download support.
   - Dark-mode "hardware sheen" surface styling inspired by Vercel and Linear design systems.
-- **Links**: [🌐 Live Demo](https://personal-portfolio-demo.vercel.app) &nbsp;|&nbsp; [💻 Client Repository](https://github.com/myunus-info/personal-portfolio)
+- **Links**: [Live Demo](https://personal-portfolio-demo.vercel.app) &nbsp;|&nbsp; [Client Repository](https://github.com/myunus-info/portfolio-client)
 
 ---
 
-### 📊 GitHub Activity & Metrics *(Rubric Item 3)*
+### GitHub Activity
 
 <div align="center">
   <table border="0">
@@ -192,7 +140,7 @@ Here are three flagship client-side applications showcasing production architect
 
 ---
 
-### 📬 Let's Connect *(Professional Social Links Only - No Instagram/TikTok)*
+### Connect
 
 <div align="center">
   <a href="https://calendly.com/myunus-info/30min">
@@ -203,7 +151,7 @@ Here are three flagship client-side applications showcasing production architect
     <img src="https://img.shields.io/badge/Email_Me-myunus.info%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/myunus-info">
+  <a href="https://www.linkedin.com/in/yunus-profile">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
