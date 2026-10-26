@@ -7,26 +7,27 @@
 
   <!-- Animated Typing SVG Sub-header -->
   <a href="https://github.com/myunus-info">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Backend-Focused+Full-Stack+Engineer;Node.js+%7C+Express+%7C+NestJS+%7C+PostgreSQL;Next.js+16+%7C+TypeScript+%7C+React+19;AWS+%7C+Docker+%7C+Prisma+%7C+Redis;Open+for+Global+Remote+Software+Roles" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Next.js+16+%7C+TypeScript+%7C+React+19;Node.js+%7C+Express+%7C+NestJS+%7C+PostgreSQL;Docker+%7C+Prisma+%7C+Redis+%7C+AWS;Open+for+Global+Remote+Roles+(EET%2FUTC%2B2)" alt="Typing Subtitle" />
   </a>
 
   <p align="center">
-    <strong>Full-Stack Software Engineer (Backend-Heavy)</strong> with 3+ years of experience engineering resilient, high-throughput backend services, distributed APIs, and transactional databases with <strong>Node.js, Express, NestJS, and PostgreSQL</strong>, backed by deep frontend mastery in <strong>Next.js 16, React 19, and TypeScript</strong>.
+    <strong>Full-Stack Software Engineer</strong> specializing in scalable web systems, performant distributed APIs, and accessible user interfaces with <strong>Next.js 16, React 19, TypeScript, Node.js, and PostgreSQL</strong>.
   </p>
 
-  <!-- Status & Quick Action Badges -->
+  <!-- Location, Email & Contact Badges (Rubric Item 2) -->
   <p align="center">
+    <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh%20%7C%20EET%20Remote-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
     <a href="mailto:myunus.info@gmail.com">
-      <img src="https://img.shields.io/badge/Status-Actively_Interviewing-00C853?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+      <img src="https://img.shields.io/badge/Email-myunus.info%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="tel:+8801928566200">
+      <img src="https://img.shields.io/badge/Phone-%2B880%201928--566200-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
+    </a>
+    <a href="https://linkedin.com/in/myunus-info">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://calendly.com/myunus-info/30min">
-      <img src="https://img.shields.io/badge/Calendly-Book_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a Call" />
-    </a>
-    <a href="mailto:myunus.info@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/Calendly-15--Min%20Intro-006BFF?style=flat-square&logo=calendly&logoColor=white" alt="Calendly" />
     </a>
   </p>
 
@@ -34,28 +35,50 @@
 
 ---
 
-### ⚡ Executive Snapshot
+### 👤 About Me
 
-```yaml
-Role: "Full-Stack Software Engineer (Backend Focus + Modern Frontend)"
-Backend & Cloud: ["Node.js", "NestJS", "Express.js", "PostgreSQL", "TypeORM", "Prisma", "Redis", "AWS", "Docker"]
-Frontend Core: ["Next.js 16 (App Router)", "React 19", "TypeScript", "Tailwind CSS", "TanStack Query v5"]
-Engineering Focus:
-  - "Distributed system design, high-concurrency APIs & microservice patterns"
-  - "Transactional data consistency (PostgreSQL row locks, ACID transactions, Prisma interactive tx)"
-  - "Container sandboxing (Docker resource cgroups, memory caps & isolated runners)"
-  - "Snappy, accessible client architecture with Server Components & optimistic state mutations"
-Experience: "3+ years architecting and shipping production software"
-Timezone: "Eastern European Time (EET / UTC+2) • Full EU & US East Coast Overlap"
-Work Authorization: "Open for Global Remote Roles & Sponsorship / Relocation"
-```
+Hi! I'm **Muhammad Yunus**, a Full-Stack Software Engineer with 3+ years of experience designing and shipping production web applications. I focus on clean code structure, transactional database integrity, and snappy page performance across modern Next.js frontends and Node.js/PostgreSQL backends. I have delivered production software for international remote clients and cross-functional teams with an async-first engineering mindset.
 
 ---
 
-### 🛠️ Technical Stack & Skills Matrix
+### 🔭 Current Activities *(Rubric Item 3)*
+
+- 🔭 **I’m currently working on**: Production web platforms with Next.js 16 App Router, transactional PostgreSQL workflows, and headless eCommerce systems.
+- 🌱 **I’m currently exploring**: React 19 Concurrent APIs, server-side caching primitives with Next.js 16, and isolated Docker container runners for untrusted code execution.
+- ⚡ **Latest Deployed Project**: [DevJudge](https://devjudgelivecoding.vercel.app) — a live technical assessment platform with Monaco Editor and in-browser Web Worker sandboxing.
+- 💬 **Ask me about**: Next.js App Router, TypeScript strict typing, Prisma ORM transactions, and PostgreSQL concurrency control (`SELECT FOR UPDATE`).
+- ⚡ **Fun fact**: Outside of programming, I enjoy competitive chess tactics, road cycling, and studying English literature.
+
+---
+
+### 🛠️ Technical Skills Matrix *(Categorized with Visual Icons)*
 
 <table>
-  <!-- Backend & APIs (First Priority) -->
+  <!-- Frontend Core -->
+  <tr>
+    <td width="24%" align="center"><strong>Frontend Core</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
+      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <!-- State & Client Architecture -->
+  <tr>
+    <td width="24%" align="center"><strong>State & Data Layer</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/TanStack_Query_v5-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" alt="Zustand" />
+      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+      <img src="https://img.shields.io/badge/Zod_Validation-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+    </td>
+  </tr>
+  <!-- Backend & APIs -->
   <tr>
     <td width="24%" align="center"><strong>Backend & APIs</strong></td>
     <td>
@@ -69,124 +92,79 @@ Work Authorization: "Open for Global Remote Roles & Sponsorship / Relocation"
   </tr>
   <!-- Databases & Caching -->
   <tr>
-    <td width="24%" align="center"><strong>Databases & Caching</strong></td>
+    <td width="24%" align="center"><strong>Databases & Storage</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-      <img src="https://img.shields.io/badge/TypeORM-FE0808?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
-      <img src="https://img.shields.io/badge/Redis_Caching-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis_Caching-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
     </td>
   </tr>
-  <!-- Cloud, DevOps & Testing (includes AWS) -->
+  <!-- Cloud, DevOps & Tools -->
   <tr>
-    <td width="24%" align="center"><strong>Cloud, DevOps & Testing</strong></td>
+    <td width="24%" align="center"><strong>Cloud & DevOps</strong></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-      <img src="https://img.shields.io/badge/Linux_Bash-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Jest_%26_Vitest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
-    </td>
-  </tr>
-  <!-- Frontend Core (Next.js 16 + React 19) -->
-  <tr>
-    <td width="24%" align="center"><strong>Modern Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
-      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
-      <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI" />
-    </td>
-  </tr>
-  <!-- State & Client Architecture -->
-  <tr>
-    <td width="24%" align="center"><strong>State & Data Layer</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/TanStack_Query_v5-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
-      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" alt="Zustand" />
-      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
-      <img src="https://img.shields.io/badge/Zod_Validation-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+      <img src="https://img.shields.io/badge/Linux_Bash-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Featured Production Projects
+### 🚀 Pinned Client-Side Projects *(At least 3 Projects - Rubric Items 4 & 5)*
 
-Here is a curated selection of full-stack systems I designed, architected, and shipped:
+Here are three flagship client-side applications showcasing production architecture, responsive UI design, and full-stack API integration:
 
-#### 1. [DevJudge – Automated Code Assessment & Sandbox Platform](https://devjudgelivecoding.vercel.app)
+#### 1. [DevJudge Client – Automated Code Assessment & Live Coding Arena](https://devjudgelivecoding.vercel.app)
 
-> **An enterprise-grade technical hiring platform featuring isolated Docker container execution, custom hidden test runners, and real-time execution telemetry.**
+> **A technical recruitment platform featuring Monaco Editor, Web Worker sandboxed execution, and automated test evaluation.**
 
-- **Architecture Overview**: Next.js 16 (App Router, Server Actions, Shadcn UI) frontend connected to an Express 5 TypeScript backend with Prisma ORM and PostgreSQL on AWS/Docker.
-- **Key Engineering Highlights**:
-  - Engineered an isolated code execution pipeline utilizing **ephemeral Docker containers** with strict Linux cgroup limits (`512MB RAM cap`, `2.0s execution timeout`, non-root user execution, and network isolation) to safely execute untrusted candidate submissions.
-  - Implemented streaming telemetry for CPU usage, memory consumption, and runtime metrics back to candidate and evaluator dashboards in real time.
-  - Built comprehensive role-based access control (RBAC) separating Candidates, Reviewers, and System Administrators, paired with Stripe credit pack checkouts.
-- **Detailed Tech Stack**:
-  - **Frontend**: Next.js 16 (App Router) • React 19 • TypeScript • Tailwind CSS v4 • Shadcn UI • TanStack Query v5 • Biome
-  - **Backend**: Node.js 20+ • Express 5 • TypeScript • Prisma 7 ORM • PostgreSQL 16 • Stripe Payments • RESTful APIs
-  - **Cloud & DevOps**: Ephemeral Docker Sandboxing • AWS (EC2 / S3) • Linux cgroups • GitHub Actions CI/CD
-- **Links**: [🌐 Live Demo](https://devjudgelivecoding.vercel.app) &nbsp;|&nbsp; [💻 Frontend Repo](https://github.com/myunus-info/phero-batch7-assignment-7) &nbsp;|&nbsp; [⚙️ Backend Repo](https://github.com/myunus-info/phero-batch7-assignment-6)
+- **Overview**: Full-stack assessment platform enabling recruiters to author coding problems and MCQs, invite candidates, and evaluate code submissions in a real-time distraction-free arena.
+- **Technologies Used**: Next.js 16 (App Router), React 19, TypeScript, Monaco Editor, Tailwind CSS v4, TanStack Query v5, Zod, Biome.
+- **Core Features**:
+  - Live Monaco Editor with multi-language syntax highlighting, starter code templates, and stdin/stdout test verification.
+  - Safe in-browser execution sandbox via dedicated Web Worker (`clientCodeRunner.ts`) with console capture and timeout guards.
+  - 3-step Recruiter Assessment Wizard with score cutoffs, time limits, and automated candidate scorecards.
+  - Role-Based Access Control (`CANDIDATE`, `RECRUITER`, `ADMIN`) with JWT HTTP-only cookies.
+- **Links**: [🌐 Live Demo](https://devjudgelivecoding.vercel.app) &nbsp;|&nbsp; [💻 Client Repository](https://github.com/myunus-info/phero-batch7-assignment-7) &nbsp;|&nbsp; [⚙️ Server Repository](https://github.com/myunus-info/phero-batch7-assignment-6)
 
 ---
 
-#### 2. [GearUp – Outdoor Adventure & Equipment Rental Marketplace](https://gearup-six-kohl.vercel.app)
+#### 2. [GearUp Client – Sports & Outdoor Gear Rental Marketplace](https://gearup-six-kohl.vercel.app)
 
-> **An enterprise-grade gear rental platform where customers browse and rent outdoor/sports equipment with automatic inventory decrementing, multi-role dashboards, and payment gateway integration.**
+> **A two-sided equipment rental marketplace with faceted search, multi-role dashboards, and payment gateway integration.**
 
-- **Architecture Overview**: Decoupled Next.js 16 client with optimistic caching via TanStack Query and an enterprise **NestJS** backend built with modular dependency injection, TypeORM, and PostgreSQL.
-- **Key Engineering Highlights**:
-  - Engineered transactional checkout flows with **atomic inventory reservations** inside PostgreSQL to guarantee zero overselling during peak booking periods.
-  - Built an enterprise **NestJS modular architecture** featuring custom Guards for role-based access control (`CUSTOMER`, `PROVIDER`, `ADMIN`), Passport JWT strategy, and Swagger / OpenAPI documentation.
-  - Integrated payment processing (Stripe / SSLCommerz) with asynchronous webhook signature verification and idempotent order state updates.
-- **Detailed Tech Stack**:
-  - **Frontend**: Next.js 16 • React 19 • TypeScript • Tailwind CSS • TanStack Query v5 • Radix UI / Shadcn
-  - **Backend**: NestJS (v12) • Node.js (v24) • TypeScript • TypeORM • PostgreSQL • Stripe API / SSLCommerz • Passport JWT • Swagger
-  - **Architecture & Tooling**: Modular Dependency Injection • ACID Database Transactions • Concurrency Control • Vitest • Oxlint • Git Workflows
-- **Links**: [🌐 Live Demo](https://gearup-six-kohl.vercel.app) &nbsp;|&nbsp; [💻 Frontend Repo](https://github.com/myunus-info/gearup-frontend) &nbsp;|&nbsp; [⚙️ Backend Repo](https://github.com/myunus-info/gearup-server)
+- **Overview**: An adventure equipment rental marketplace connecting customers with verified local gear providers, featuring real-time inventory tracking and rental booking workflows.
+- **Technologies Used**: Next.js 16 (App Router & Server Actions), React 19, TypeScript, Tailwind CSS v4, Shadcn UI / Radix primitives, TanStack Query v5, React Hook Form + Zod, Stripe.
+- **Core Features**:
+  - 3 distinct role-gated dashboards: Customer (browse, rent, pay, review), Provider (CRUD gear inventory, order tracking), and Admin (platform oversight).
+  - Faceted search engine filtering by brand, category, condition, and price with optimistic client-side caching.
+  - Server Actions authentication with JWT stored securely in HTTP-only cookies and automatic refresh token rotation.
+  - Rental checkout pipeline with date-conflict validation to prevent equipment double-booking.
+- **Links**: [🌐 Live Demo](https://gearup-six-kohl.vercel.app) &nbsp;|&nbsp; [💻 Client Repository](https://github.com/myunus-info/phero-batch7-assignment-5) &nbsp;|&nbsp; [⚙️ Server Repository](https://github.com/myunus-info/phero-batch7-assignment-4)
 
 ---
 
-### 💡 Engineering Principles & How I Build
+#### 3. [Personal Developer Portfolio & Interactive Case Studies](https://personal-portfolio-demo.vercel.app)
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                        ENGINEERING EXCELLENCE                          │
-├──────────────────────┬────────────────────────┬────────────────────────┤
-│  🔒 Backend & Data   │  ⚡ Snappy Performance │  🤝 Async Engineering  │
-├──────────────────────┼────────────────────────┼────────────────────────┤
-│ • ACID Transactions  │ • Next.js 16 RSC       │ • Self-documenting PRs │
-│ • Strict DB Schemas  │ • Optimistic Mutations │ • RFC Architecture Docs│
-│ • Row-Level Locking  │ • Edge & Redis Caching │ • Automated CI Suites  │
-│ • Container Sandbox  │ • Core Web Vitals (95+)│ • Thorough Code Reviews│
-└──────────────────────┴────────────────────────┴────────────────────────┘
-```
+> **A modern, high-performance developer portfolio built with Next.js 16 Turbopack, Tailwind CSS v4, and 100% static site generation.**
 
-1. **Defensive Backend Architecture & Data Integrity**: Systems are built around strict ACID compliance, PostgreSQL relational constraints, and explicit transactional locking (`SELECT FOR UPDATE`) to guarantee zero corrupt state under high concurrency.
-2. **End-to-End Type Safety**: Shared TypeScript contracts bridge database entities, API response envelopes, and Next.js 16 frontend components, eliminating type mismatch bugs at compile time.
-3. **Cloud-Native & Containerized**: Experienced in containerizing microservices with Docker, deploying resilient workloads on AWS, and designing automated CI/CD deployment pipelines.
-4. **Async-First Mindset**: As a remote engineer, I treat thorough RFC documentation, comprehensive pull request walkthroughs, and automated test coverage as first-class engineering responsibilities.
+- **Overview**: Standalone personal portfolio featuring interactive project case studies, categorized competencies, an ATS-friendly resume viewer, and a direct Calendly scheduling hub.
+- **Technologies Used**: Next.js 16 (Turbopack & SSG), React 19, TypeScript, Tailwind CSS v4, Shadcn UI, Lucide Icons, Sonner.
+- **Core Features**:
+  - 100% static site generation (SSG) with `generateStaticParams()` delivering near-instant page transitions and perfect Lighthouse scores.
+  - Direct Connect Hub with one-click email copying, prefilled `mailto:` links, and Calendly meeting booking integration.
+  - Interactive ATS-friendly resume viewer with direct PDF download support.
+  - Dark-mode "hardware sheen" surface styling inspired by Vercel and Linear design systems.
+- **Links**: [🌐 Live Demo](https://personal-portfolio-demo.vercel.app) &nbsp;|&nbsp; [💻 Client Repository](https://github.com/myunus-info/personal-portfolio)
 
 ---
 
-### 📝 Technical Writing & Articles
-
-- 📘 [Mastering Database Transactions and Concurrency with Prisma & PostgreSQL](#)  
-  *A deep dive into preventing race conditions, managing pessimistic vs. optimistic locks (`SELECT FOR UPDATE`), and executing atomic workflows in production.*
-- 📘 [Why Async-First Communication is the Superpower of Top Remote Software Engineers](#)  
-  *How writing thoughtful pull requests, self-documenting RFCs, and clear architectural summaries elevates engineering impact across international timezones.*
-
----
-
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Metrics *(Rubric Item 3)*
 
 <div align="center">
   <table border="0">
@@ -214,12 +192,9 @@ Here is a curated selection of full-stack systems I designed, architected, and s
 
 ---
 
-### 📬 Let's Connect & Build Together
-
-Whether you are looking to hire a dedicated **Backend or Full-Stack Engineer**, need someone to architect a clean **Next.js 16 & Node.js/PostgreSQL** system on **AWS**, or want to discuss technical systems:
+### 📬 Let's Connect *(Professional Social Links Only - No Instagram/TikTok)*
 
 <div align="center">
-
   <a href="https://calendly.com/myunus-info/30min">
     <img src="https://img.shields.io/badge/Schedule_a_Call-30_Min_Chat-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" />
   </a>
@@ -228,14 +203,11 @@ Whether you are looking to hire a dedicated **Backend or Full-Stack Engineer**, 
     <img src="https://img.shields.io/badge/Email_Me-myunus.info%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/myunus-info">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/myunus-info">
     <img src="https://img.shields.io/badge/GitHub-myunus--info-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <br/><br/>
-  <sub>⭐ Designed with precision for technical recruiters and engineering leaders. Built with clean Markdown & SVG.</sub>
 </div>
