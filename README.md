@@ -175,7 +175,7 @@ Here are three flagship client-side applications showcasing production architect
     <tr>
       <td align="center">
         <a href="https://github.com/myunus-info">
-          <img src="https://github-readme-stats.vercel.app/api?username=myunus-info&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="410" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=myunus-info&show_icons=true&theme=tokyonight&hide_border=true" width="410" alt="GitHub Stats" />
         </a>
       </td>
       <td align="center">
