@@ -56,13 +56,66 @@ Hi! I'm **Muhammad Yunus**, a Full-Stack Software Engineer with 3+ years of expe
 
 ### Technical Skills
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Frontend Core** | Next.js 16 (App Router), React 19, TypeScript, JavaScript (ES6+), Tailwind CSS v4, Shadcn UI, HTML5, CSS3 |
-| **State & Data Layer** | TanStack Query v5, Zustand, Redux Toolkit, Zod Validation |
-| **Backend & APIs** | Node.js, Express.js, NestJS, RESTful APIs, JWT & OAuth 2.0, WebSockets (Socket.io) |
-| **Databases & Storage** | PostgreSQL, Prisma ORM, TypeORM, MongoDB, Redis Caching |
-| **Cloud & DevOps** | AWS, Docker, Git & GitHub, Postman, Linux / Bash |
+<table>
+  <!-- Frontend Core -->
+  <tr>
+    <td width="24%" align="center"><strong>Frontend Core</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
+      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <!-- State & Client Architecture -->
+  <tr>
+    <td width="24%" align="center"><strong>State & Data Layer</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/TanStack_Query_v5-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" alt="Zustand" />
+      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+      <img src="https://img.shields.io/badge/Zod_Validation-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+    </td>
+  </tr>
+  <!-- Backend & APIs -->
+  <tr>
+    <td width="24%" align="center"><strong>Backend & APIs</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST" />
+      <img src="https://img.shields.io/badge/JWT_%26_OAuth_2.0-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="Auth" />
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
+    </td>
+  </tr>
+  <!-- Databases & Storage -->
+  <tr>
+    <td width="24%" align="center"><strong>Databases & Storage</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+      <img src="https://img.shields.io/badge/TypeORM-FE0808?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis_Caching-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+    </td>
+  </tr>
+  <!-- Cloud, DevOps & Tools -->
+  <tr>
+    <td width="24%" align="center"><strong>Cloud & DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Linux_Bash-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+    </td>
+  </tr>
+</table>
 
 ---
 
