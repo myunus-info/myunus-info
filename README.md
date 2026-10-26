@@ -16,6 +16,9 @@
 
   <!-- Contact & Location Links -->
   <p align="center">
+    <a href="https://yunusportfolio-ten.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Live_Site-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="https://www.linkedin.com/in/yunus-profile">
       <img src="https://img.shields.io/badge/LinkedIn-yunus--profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -97,7 +100,7 @@ Here are three flagship client-side applications showcasing production architect
 
 ---
 
-#### 3. [Personal Developer Portfolio & Interactive Case Studies](https://personal-portfolio-demo.vercel.app)
+#### 3. [Personal Developer Portfolio & Interactive Case Studies](https://yunusportfolio-ten.vercel.app/)
 
 > **A modern, high-performance developer portfolio built with Next.js 16 Turbopack, Tailwind CSS v4, and 100% static site generation.**
 
@@ -108,7 +111,7 @@ Here are three flagship client-side applications showcasing production architect
   - Direct Connect Hub with one-click email copying, prefilled `mailto:` links, and Calendly meeting booking integration.
   - Interactive ATS-friendly resume viewer with direct PDF download support.
   - Dark-mode "hardware sheen" surface styling inspired by Vercel and Linear design systems.
-- **Links**: [Live Demo](https://personal-portfolio-demo.vercel.app) &nbsp;|&nbsp; [Client Repository](https://github.com/myunus-info/portfolio-client)
+- **Links**: [Live Demo](https://yunusportfolio-ten.vercel.app/) &nbsp;|&nbsp; [Client Repository](https://github.com/myunus-info/portfolio-client)
 
 ---
 
@@ -143,6 +146,10 @@ Here are three flagship client-side applications showcasing production architect
 ### Connect
 
 <div align="center">
+  <a href="https://yunusportfolio-ten.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://calendly.com/myunus-info/30min">
     <img src="https://img.shields.io/badge/Schedule_a_Call-30_Min_Chat-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" />
   </a>
