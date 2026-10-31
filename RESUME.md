@@ -1,22 +1,22 @@
 # Muhammad Yunus
-**Full-Stack Software Engineer**
+**Full-Stack Software Engineer • Next.js 16 • TypeScript • Node.js • Cloud**
 
-Cairo, Egypt (EET / UTC+2) • Open to Remote & Relocation  
+Dhaka, Bangladesh / Cairo, Egypt • Open to Remote & Relocation  
 **Phone/WhatsApp:** [+20 1025-689042](https://wa.me/201025689042) | **Email:** [myunus.info@gmail.com](mailto:myunus.info@gmail.com)  
 **Portfolio:** [yunusportfolio-ten.vercel.app](https://yunusportfolio-ten.vercel.app/) | **LinkedIn:** [linkedin.com/in/yunus-profile](https://www.linkedin.com/in/yunus-profile) | **GitHub:** [github.com/myunus-info](https://github.com/myunus-info)
 
 ---
 
-## PROFESSIONAL SUMMARY
-Full-Stack Software Engineer with 4+ years of software development experience (programming journey begun in January 2020 through intensive tracks across **Creative IT, Pondit, Programming Hero, and extensive Udemy coursework**). Maintained an unbroken dedication to mastering modern web architecture and AWS/cloud systems concurrently alongside internships and US client contract work. Proven track record architecting modular backend services for enterprise logistics systems (DaakBangla) and building production platforms with **Next.js 16 (App Router), React 19, TypeScript, NestJS, and PostgreSQL**. Skilled in transactional database modeling (TypeORM, Prisma), Redis caching, and Docker containerization on AWS.
+## CAREER OBJECTIVE
+Full-Stack Software Engineer with 4+ years of software development experience (programming journey begun in January 2020 through intensive tracks across **Creative IT, Pondit, Programming Hero, and extensive Udemy coursework**). Proven background architecting modular distributed backend services for US client contracts and building scalable modern web platforms with **Next.js 16 (App Router), React 19, TypeScript, NestJS, and PostgreSQL**. Seeking to leverage deep expertise in cloud architectures and transactional data systems to build high-availability products within a high-impact engineering team.
 
 ---
 
-## TECHNICAL SKILLS
+## SKILLS
 - **Languages:** TypeScript, JavaScript (ES6+), SQL, HTML5, CSS3, Bash
 - **Frontend:** Next.js 16 (App Router, Server Actions), React 19, Tailwind CSS v4, Shadcn UI, TanStack Query v5, Redux Toolkit, Zustand
-- **Backend & APIs:** Node.js, Express.js, NestJS, RESTful APIs, WebSockets (Socket.io), JWT, OAuth 2.0, Microservices, MVC
-- **Databases & Cloud:** PostgreSQL, MySQL, MongoDB, Redis (In-Memory Caching), Prisma ORM, TypeORM, AWS (EC2, S3, Lambda), Docker, Git
+- **Backend & Cloud:** Node.js, Express.js, NestJS, RESTful APIs, WebSockets (Socket.io), PostgreSQL, MySQL, Redis, Prisma ORM, TypeORM, AWS (EC2, S3), Docker, Git
+- **Interpersonal Skills:** Technical Communication, Cross-Functional Teamwork, Agile / Scrum Collaboration, Analytical Problem-Solving, Async Project Ownership
 
 ---
 
@@ -25,7 +25,7 @@ Full-Stack Software Engineer with 4+ years of software development experience (p
 ### **Full-Stack Software Engineer** — Independent Project Engineering
 *Remote | 2023 – Present*
 - Undertook dedicated advanced engineering specialization; architected and shipped production platforms (DevJudge, GearUp) utilizing Next.js 16 App Router, React 19, NestJS, and PostgreSQL.
-- Engineered complex backend integrations including database transactional row-locking (`SELECT FOR UPDATE`), in-browser Web Worker sandboxes, and full-stack type safety with Prisma and TypeORM.
+- Engineered complex backend integrations including database transactional row-locking (SELECT FOR UPDATE), in-browser Web Worker sandboxes, and full-stack type safety with Prisma and TypeORM.
 
 ### **Full-Stack Software Engineer (Contract)** — Independent Contractor / US Client
 *New York, United States (Remote) | July 2022 – January 2023 (7 mos)*  
@@ -39,26 +39,43 @@ Full-Stack Software Engineer with 4+ years of software development experience (p
 ### **Software Engineer (Intern)** — Aurora IT
 *Dhaka, Bangladesh | May 2022 – June 2022*
 - Developed internal dashboard modules and RESTful endpoints using Node.js, Express, and JavaScript within an Agile sprint team.
-- Wrote automated integration and unit test suites that expanded regression test coverage across core API routes by **25%**.
+- Authored automated integration and unit test suites, expanding test coverage across core API routes by **25%**.
 
 ---
 
-## FEATURED PROJECTS
+## PROJECTS
 
-### **DevJudge – Automated Code Assessment & Live Arena**
+### **DevJudge – Code Assessment Arena Platform**
 *Next.js 16, React 19, TypeScript, Monaco Editor, Tailwind CSS v4, TanStack Query v5, Zod*  
 **Links:** [Live Demo](https://devjudgelivecoding.vercel.app) | [Client Repo](https://github.com/myunus-info/phero-batch7-assignment-7) | [Server Repo](https://github.com/myunus-info/phero-batch7-assignment-6)
 - Built an in-browser code evaluation environment leveraging Web Workers and Monaco Editor, running untrusted candidate JavaScript with strict 2.0s execution timeout guards.
 - Engineered a 3-step recruiter assessment wizard with configurable test cases, scoring criteria, and real-time candidate leaderboards.
+- Implemented role-based access control (RBAC) and candidate session verification using secure JWT HTTP-only cookies.
 
 ### **GearUp – Outdoor Equipment Rental Marketplace**
 *Next.js 16, NestJS, TypeScript, TypeORM, PostgreSQL, Stripe API, Tailwind CSS, Shadcn UI*  
 **Links:** [Live Demo](https://gearup-six-kohl.vercel.app) | [Client Repo](https://github.com/myunus-info/gearup-frontend) | [Server Repo](https://github.com/myunus-info/gearup-server)
 - Architected a two-sided gear rental marketplace with 3 role-specific dashboards (Customer, Provider, Admin) for rental workflows, gear CRUD, and order fulfillment.
 - Implemented database transactional row-locking in PostgreSQL via TypeORM to eliminate concurrency race conditions and prevent equipment double-booking during checkout.
+- Integrated Stripe payment processing pipeline with dynamic date-conflict rental validation algorithms.
 
 ---
 
-## EDUCATION & TECHNICAL TRAINING
-- **Uttara University:** Bachelor of Arts (English Language & Literature) • *CGPA: 3.92 / 4.00* • Focus: Technical Writing & Analytical Problem Solving. 4+ years continuous self-directed CS & system design study (begun Jan 2020).
-- **AWS Certified Cloud Practitioner** (Amazon Web Services, Nov 2022) • Specialized Full-Stack & AWS/Cloud Training: **Creative IT, Pondit, Programming Hero, and extensive Udemy coursework** (maintained continuous skill growth alongside jobs and internships).
+## EDUCATION
+### **Bachelor of Arts (English Language & Literature)** — Uttara University
+*2019 – 2020 (1 Year) | Dhaka, Bangladesh*  
+- **CGPA:** 3.92 / 4.00  
+- **Relevant Focus:** Technical Writing, Analytical Problem Solving, and Professional Communication.
+
+---
+
+## LANGUAGE PROFICIENCY
+- **English:** Professional Working Proficiency
+- **Bengali:** Native
+- **Arabic:** Elementary / Basic
+
+---
+
+## CERTIFICATIONS & TECHNICAL TRAINING
+- **AWS Certified Cloud Practitioner** — Amazon Web Services (AWS) *(Issued: Nov 2022)*
+- **Continuous Full-Stack & Cloud Specialization:** Creative IT, Pondit, Programming Hero, and extensive Udemy coursework.
