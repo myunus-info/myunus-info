@@ -70,9 +70,7 @@ Full-Stack Software Engineer with 4+ years of software development experience (p
 ---
 
 ## LANGUAGE PROFICIENCY
-- **English:** Professional Working Proficiency
-- **Bengali:** Native
-- **Arabic:** Elementary / Basic
+- **English:** Professional Working Proficiency • **Bengali:** Native • **Arabic:** Advanced • **Hindi:** Advanced
 
 ---
 
