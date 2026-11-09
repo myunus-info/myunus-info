@@ -160,6 +160,19 @@
 
 ---
 
+### Situational / Background Question: "What brought you to Egypt?" (or "Where are you currently based?")
+* **Target Duration:** ~30–40 seconds
+* **Tone:** Professional, reassuring, and strategically focused on remote availability.
+
+#### 🎙 Spoken Script:
+> "I relocated to Cairo for a dedicated Arabic language and classical studies immersion, which I completed. Cairo has since become my base for software engineering, giving me great proximity to European and Middle Eastern (EET) time zones and full-time remote availability."
+
+#### 💡 Key Takeaway for Interviewers:
+- **Demonstrates Focus & Completion:** Clear framing that the intensive language program was completed, confirming you are unencumbered and dedicated full-time.
+- **Time-Zone Advantage:** Egypt (UTC+2 / EET) offers exceptional overlap with European, UK, Gulf/MENA, and Asian engineering teams with rock-solid remote availability.
+
+---
+
 ## 🎬 Video Recording Execution Strategy
 
 1. **Rehearsal**: Read each script aloud 2–3 times with a stopwatch on your phone. Aim for ~50 seconds per question.
