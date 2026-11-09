@@ -8,7 +8,7 @@ Dhaka, Bangladesh / Cairo, Egypt • Open to Remote & Relocation
 ---
 
 ## CAREER OBJECTIVE
-Full-Stack Software Engineer with 4+ years of software development experience (programming journey begun in January 2020 through intensive tracks across **Creative IT, Pondit, Programming Hero, and extensive Udemy coursework**). Proven background architecting modular distributed backend services for US client contracts and building scalable modern web platforms with **Next.js 16 (App Router), React 19, TypeScript, NestJS, and PostgreSQL**. Seeking to leverage deep expertise in cloud architectures and transactional data systems to build high-availability products within a high-impact engineering team.
+Full-Stack Software Engineer with 4+ years of software development experience (programming journey begun in January 2020 through intensive tracks across **Creative IT, Pondit, Programming Hero, and extensive Udemy coursework**). Proven background contributing to modular backend services for US client contracts (DaakBangla prototype) and building production-ready web applications (live on portfolio) with **Next.js 16 (App Router), React 19, TypeScript, NestJS, and PostgreSQL**. Seeking to leverage deep expertise in cloud architectures and transactional data systems to build high-availability products within a high-impact engineering team.
 
 ---
 
@@ -24,13 +24,13 @@ Full-Stack Software Engineer with 4+ years of software development experience (p
 
 ### **Full-Stack Software Engineer** — Independent Project Engineering
 *Remote | 2023 – Present*
-- Undertook dedicated advanced engineering specialization; architected and shipped production platforms (DevJudge, GearUp) utilizing Next.js 16 App Router, React 19, NestJS, and PostgreSQL.
+- Undertook dedicated technical exploration and upskilling; designed, built, and deployed full-stack applications (DevJudge, GearUp) live on personal portfolio, utilizing Next.js 16 App Router, React 19, NestJS, and PostgreSQL.
 - Engineered complex backend integrations including database transactional row-locking (SELECT FOR UPDATE), in-browser Web Worker sandboxes, and full-stack type safety with Prisma and TypeORM.
 
 ### **Full-Stack Software Engineer (Contract)** — Independent Contractor / US Client
 *New York, United States (Remote) | July 2022 – January 2023 (7 mos)*  
 *Core Software Engineer on 'DaakBangla' – enterprise courier and parcel logistics platform prototype*
-- Architected backend RESTful services and dispatch workflows for **DaakBangla**, an enterprise-grade nationwide parcel delivery and courier logistics platform prototype.
+- Contributed to backend RESTful services and dispatch workflows for **DaakBangla**, an enterprise-grade nationwide parcel delivery and courier logistics platform prototype.
 - Engineered normalized PostgreSQL and MySQL schemas with compound indexes, achieving sub-100ms response benchmarks during staging load tests.
 - Integrated Redis in-memory caching for merchant reporting dashboards and package status lookups to prevent database bottlenecks under concurrent access.
 - Designed secure authentication workflows utilizing JWT HTTP-only cookies and Role-Based Access Control (RBAC) across dispatchers, couriers, and merchants.

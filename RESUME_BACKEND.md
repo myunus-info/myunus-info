@@ -8,7 +8,7 @@ Dhaka, Bangladesh / Cairo, Egypt • Open to Global Remote & Relocation
 ---
 
 ## CAREER OBJECTIVE
-Backend Software Engineer with 4+ years of software development experience (programming journey begun in January 2020 through intensive tracks across **Creative IT, Pondit, Programming Hero, and extensive Udemy coursework**), specializing in building high-concurrency distributed APIs, microservices, and transactional cloud infrastructure using **NestJS, Node.js, TypeScript, PostgreSQL, Docker, and AWS**. Proven track record architecting modular backend services for US client contracts (DaakBangla) and production platforms with transactional row-locking (SELECT FOR UPDATE), Redis caching tiers, multi-stage Docker containerization, and automated GitHub Actions CI/CD pipelines. Seeking to design resilient distributed backend systems and high-throughput microservices within a mission-critical engineering team.
+Backend Software Engineer with 4+ years of software development experience (programming journey begun in January 2020 through intensive tracks across **Creative IT, Pondit, Programming Hero, and extensive Udemy coursework**), specializing in building high-concurrency distributed APIs, microservices, and transactional cloud infrastructure using **NestJS, Node.js, TypeScript, PostgreSQL, Docker, and AWS**. Proven track record contributing to modular backend services for US client contracts (DaakBangla prototype) and building production-ready applications (live on portfolio) with transactional row-locking (SELECT FOR UPDATE), Redis caching tiers, multi-stage Docker containerization, and automated GitHub Actions CI/CD pipelines. Seeking to design resilient distributed backend systems and high-throughput microservices within a mission-critical engineering team.
 
 ---
 
@@ -25,14 +25,14 @@ Backend Software Engineer with 4+ years of software development experience (prog
 
 ### **Backend Software Engineer** — Independent Project Engineering
 *Remote | 2023 – Present*
-- Architected enterprise-grade backend APIs with **NestJS** and Express 5, implementing modular clean architecture, unified @Auth() guards, and custom interceptors for standardized API response envelopes.
+- Architected modular, production-ready backend APIs with **NestJS** and Express 5 (live on personal portfolio), implementing clean architecture, unified @Auth() guards, and custom interceptors for standardized API response envelopes.
 - Engineered transactional data pipelines in PostgreSQL via **TypeORM** and **Prisma**, utilizing row-level pessimistic locking (SELECT FOR UPDATE) and atomic conditional updates to eliminate concurrency race conditions.
 - Engineered multi-stage Docker containerization (slashing image sizes by 60%), orchestrated local microservices with Docker Compose, and automated build, lint, and test validation via **GitHub Actions CI/CD** pipelines.
 
 ### **Full-Stack Software Engineer (Contract)** — Independent Contractor / US Client
 *New York, United States (Remote) | July 2022 – January 2023 (7 mos)*  
 *Core Software Engineer on 'DaakBangla' – enterprise courier and parcel logistics platform prototype*
-- Architected backend RESTful services and dispatch workflows for **DaakBangla**, an enterprise-grade nationwide parcel delivery and courier logistics platform prototype.
+- Contributed to backend RESTful services and dispatch workflows for **DaakBangla**, an enterprise-grade nationwide parcel delivery and courier logistics platform prototype.
 - Engineered normalized PostgreSQL and MySQL schemas with compound indexes, achieving sub-100ms response benchmarks during staging load tests.
 - Integrated Redis in-memory caching for merchant reporting dashboards and package status lookups to prevent database bottlenecks under concurrent access.
 - Designed secure authentication workflows utilizing JWT HTTP-only cookies and Role-Based Access Control (RBAC) across dispatchers, couriers, and merchants.
